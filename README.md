@@ -1,4 +1,4 @@
-# CS255 Computer Security — Lab 4: Adversarial Learning (Fall 2025)
+# CS255 Computer Security - Lab 4: Adversarial Learning (Fall 2025)
 
 ## Overview
 
