@@ -109,7 +109,7 @@ Thus, to maximize your grade:
 
 ## Resulst from Gradescope
 
-```
+
 Grading FGSM:
 Top-1 error on original samples:  40.00%; on adversarial samples: 82.00%
 Top-5 error on original samples:  9.00%; on adversarial samples: 28.00%
@@ -123,4 +123,3 @@ Top-1 error on original samples:  40.00%; on adversarial samples: 95.00%
 Top-5 error on original samples:  9.00%; on adversarial samples: 43.00%
 Accuracy drop: tp1_accuracy_diff = 0.5500, tp5-accuracy-diff = 0.3400, eps = 0.065308
 [PGD] tp1_score=14.3000, tp5_score=15.6400, final PGD bonus=2.0000
-```
