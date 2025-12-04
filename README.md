@@ -107,7 +107,7 @@ Thus, to maximize your grade:
 
 ---
 
-## Resulst from Gradescope
+## Results from Gradescope
 
 
 Grading FGSM:
