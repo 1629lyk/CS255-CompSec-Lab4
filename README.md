@@ -3,7 +3,7 @@
 ## Overview
 
 In this lab, you will learn how to generate adversarial examples to attack a CNN deep-learning model. Specifically, you will generate a set of adversarial images that cause the model to misclassify them. Project is based on this paper 
-![Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-4_Xu_paper.pdf)
+[Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-4_Xu_paper.pdf)
 
 ---
 
